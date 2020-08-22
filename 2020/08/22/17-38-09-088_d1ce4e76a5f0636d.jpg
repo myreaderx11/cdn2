@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<!-- Trackers Head -->
+			<!-- Google Search Console -->
+	<meta name="google-site-verification" content="ZsYbIEaJgzvGK4qlLYbb40fhZoskH9SmTUchdXtQO9A" />
+	<!-- End Google Search Console -->
+	<!-- Global site tag (gtag.js) - Google Analytics ROI -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85980052-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-85980052-1');
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-NKJGNVF');</script>
+	<!-- End Google Tag Manager -->
+	
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window,document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	 fbq('init', '2394522357293741'); 
+	fbq('track', 'PageView');
+	</script>
+	<noscript>
+	 <img height="1" width="1" 
+	src="https://www.facebook.com/tr?id=2394522357293741&ev=PageView
+	&noscript=1"/>
+	</noscript>
+	<!-- End Facebook Pixel Code -->
+	
+	
+	
+	
+		<!-- End Trackers Head -->
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" >
+		
+		<meta content='True' name='HandheldFriendly' />
+		<!--<meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />-->
+		<meta name="viewport" content="width=device-width" />
+        
+		<meta name="description" content="Pizza Hut is now offering Contact-Free Deliveries in all our Hut's to help keep everyone healthy. Order your favourite Pizza & Sides straight to your door. Order Online.">
+		<meta name="keywords" content="pizza hut, pizza hut delivery, phd, pizzahut, pizza delivery">
+		<meta name="author" content="Pizza Hut Delivery">
+		<title>Pizza Delivery, Deals &amp; Takeaway |  Home Page</title>
+        <!-- Bootstrap core CSS -->
+        <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="style_v2.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Khand:600|Open+Sans:300,400,600,700" rel="stylesheet">
+		<meta name="application-name" content="Pizza Hut Delivery">
+		<meta name="apple-mobile-web-app-title" content="Pizza Hut Delivery">
+		<link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="180x180">
+		<link rel="icon" href="favicon-32x32.png" type="image/png" sizes="32x32">
+		<link rel="icon" href="favicon-16x16.png" type="image/png" sizes="16x16">
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="mask-icon" href="safari-pinned-tab.svg">
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+		<link href="https://fonts.googleapis.com/css?family=Chau+Philomene+One" rel="stylesheet">
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+		<style>
+		.TitleBanner {
+			font-size: 34px;
+		}
+		@media (max-width:609px)
+		{
+			.TitleBanner { font-size: 30px; }
+		}
+		body { overflow: auto; }
+		
+		@media (max-width: 991px) and (min-width: 610px){
+		.home-header-div {
+			background-image: url("img/home-bg-md-buffalo.jpg");
+		}}
+		@media (max-width: 609px) {
+		.home-header-div {
+			background-image: url("img/home-bg-sm-buffalo.jpg");
+		}}
+		@media (min-width: 992px){
+		.home-header-div {
+			background-image: url("img/home-bg-lg-buffalo.jpg");
+		}}
+
+		@media (min-width: 500px){
+			.modal-sm-covid {
+				width: 400px;
+			}
+			.modal-dialog-covid {
+				margin: 10px auto;
+			}
+		}
+		.covid19title { 
+			font-size: 12px;
+			text-align: center;
+			color: rgb(255, 8, 53);
+			background-color: rgb(248, 226, 230);
+			font-weight: bold;
+		}
+		.covid19h2 {
+			font-family: Khand;
+			font-size: 23px;
+			text-align: center;
+		}
+		.covid19p {
+			text-align: center;
+		}
+		</style>
+		
+
+
+
+
+
+
+    </head>
+    <body onLoad="loadStores();lp();">
+
+
+
+
+
+	<!-- Preloader -->
+	<!--
+	<div id="preloader">
+	  <div id="status">&nbsp;</div>
+	</div>
+	-->
+
+
+		<!--[if lte IE 8]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a>.</p>
+		<![endif]-->
+		
+	
+
+        <div class="container">
+		</div>
+        <div class="row home-header-div">
+            <h1 class="logo-home">Pizza Hut Delivery</h1>
+                        <div class="find-a-hut " id="find_a_store_form" >
+                <div class="tab-content find-address-div">
+                    <div class="tabbable-panel">
+                        <div class="tabbable-line">
+                            <ul class="nav nav-tabs  nav-space txt-grey">
+                                <li class="active nav-border">
+                                    <a href="#tab_default_1" data-toggle="tab">Find a Hut </a>
+                                </li>
+                                <li class="nav-border nav-border">
+                                    <!--<a href="#tab_default_2" data-toggle="tab" class="txt-grey">List of Huts</a>-->
+									<a href="locations.php" class="txt-grey">List of Huts</a>
+									
+                                </li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane active" id="tab_default_1">
+                                    <p class="msg-find-a-store">Find your Hut. Get the best local deals.</p>
+                                    <input type="text" class="form-control fnd-address" id="autocomplete" onfocus="geolocate()" placeholder="Your full address">
+									<input type="hidden" id="sess_id" value="nhu8d2o9vqdljr916dfejl84l2">
+									<input type="hidden" id="ip_addr" value=";;34.241.60.125">
+	                                <button id="click1" class="btn fnd-search">
+				                        <i class="fa fa-search" aria-hidden="true"></i>
+			                         </button>
+                                </div>
+                                <div class="tab-pane" id="tab_default_2">
+                                    <div class="dropdown">
+                                        <button class="btn btn-default dropdown-toggle full-width" type="button" id="menu1" data-toggle="dropdown">Select a Store
+                                            <span class="caret"></span>
+                                        </button>
+                                        <ul class="dropdown-menu drop-store-select" role="menu" aria-labelledby="menu1">
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=belfield">Belfield <small>(Dublin)</small></a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=castleknock">Castleknock <small>(Dublin)</small></a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=clontarf">Clontarf <small>(Dublin)</small></a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=dundalk">Dundalk</a>
+                                            </li>
+											<li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=finglas">Finglas (Dublin)</a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=kilbarrack">Kilbarrack <small>(Dublin)</small></a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=longford">Longford</a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=lucan">Lucan <small>(Dublin)</small></a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=rathfarnham">Rathfarnham <small>(Dublin)</small></a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=sallynoggin">Sallynoggin <small>(Dublin)</small></a>
+                                            </li>
+											<li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=sandyford">Sandyford <small>(Dublin)</small></a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=swords">Swords <small>(Dublin)</small></a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=tallaght">Tallaght <small>(Dublin)</small></a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdelivery.ie/?s=tyrrelstown">Tyrrelstown <small>(Dublin)</small></a>
+                                            </li>
+											
+
+                                            <li role="presentation" class="divider"></li>
+                                            <li role="presentation">
+                                                <a role="menuitem" tabindex="-1" href="https://www.pizzahutdeliveryni.com/?s=ormeau+road">Ormeau Road <small>(Belfast)</small></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	
+
+
+								
+				
+    <!--<h2 class="basket-header heading-hr--dotted">OUR MOST POPULAR DEALS</h2>-->
+
+	    <div class="row  div-popular-deals">
+        <div class="col-md-6 most-popular-deals-ad home-page-ad col-sm-6 col-xs-12" style="margin-bottom: 10px">
+            <div id="carousel1" class="carousel slide" data-ride="carousel"> 
+                <!-- Indicators -->                 
+                <!-- Wrapper for slides -->                 
+                <div class="carousel-inner"> 
+                    <div class="item active"><a href=""><img src="img/slider/pepperoni-tear-and-share.jpg" alt="" style="width: 100%" /></a></div><div class="item"><img src="img/slider/baconi-tear-and-share.jpg" alt="" /> </div><div class="item"><img src="img/slider/jalapenoi-tear-and-share.jpg" alt="" /> </div>                </div>                 
+                <!-- Controls -->                 
+                <!--<a class="left carousel-control" href="#carousel1" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> </a> 
+                <a class="right carousel-control" href="#carousel1" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> </a> -->
+            </div>             
+        </div>
+		
+        <div class="most-popular-deals-ad col-md-6 col-sm-6 col-xs-12"> 
+			<a href=""><img src="img/winning-deal.jpg" class="home-ad" /></a>             
+        </div>
+		
+    </div>
+	
+
+	    <footer class="footer">
+        <div class="row footer-row">
+            <div class="col-sm-6 col-xs-12 col-md-4">
+	<h5 class="">About Us</h5>
+	<ul class="footer-link">                 
+		<li>
+			<a href="http://www.pizzahutdelivery.ie/franchise">Become a Franchise</a>
+		</li>                     
+	</ul>                 
+</div>
+<div class="col-sm-6 col-xs-12 col-md-4">
+	<h5 class="">Help &amp; Service</h5>
+	<ul class="footer-link"> 
+		                  
+		<li>
+			<a href="locations.php">Locations</a>
+		</li>                     
+		<li>
+			<a href="faq-and-help.php">FAQs &amp; Help</a>
+		</li>
+		<li>
+			<a href="Ingredients-List-Pizza-Hut-Delivery-Ireland-June-2019.pdf">Nutrition</a> &amp; <a href="Allergen-June-2019.pdf">Allergens</a>
+		</li>                     
+	</ul>                 
+</div>
+<div class="col-sm-6 col-xs-12 col-md-4">
+	<h5 class="">Our Policies</h5>
+	<ul class="footer-link"> 
+		<li>
+			<a href="contact-free-delivery.php">Contact-Free</a>
+		</li>
+		<li>
+			<a href="privacy-policy.php">Privacy Policy</a>
+		</li>                     
+		<li>
+			<a href="terms-and-conditions.php">Terms &amp; Conditions</a>
+		</li>  
+		<li>
+			<a href="refund-policy.php">Refund Policy</a>
+		</li>
+		<li>
+			<a href="delivery-policy.php">Delivery Policy</a>
+		</li>
+		<li>
+			<a href="cancelations-policy.php">Cancelations Policy</a>
+		</li>
+		<li>
+			<a href="cookies.php">Cookies</a>
+		</li>                     
+	</ul>                 
+</div>
+<div class="col-sm-12 col-xs-12 col-md-12">
+
+	<center>
+    <a href="https://itunes.apple.com/us/app/pizza-hut-delivery-ireland/id1330972229?ls=1&amp;mt=8" target="_blank"><img src="img/app-store-ios.svg" style="width: 150px"></a>
+    <a href="https://play.google.com/store/apps/details?id=ie.pizzahutdelivery&amp;hl=en" target="_blank"><img src="img/app-store-google-play.png" style="width: 150px"></a>
+    </center>
+
+
+
+
+	<p class="copyright"><small>&copy; 2020 Pizza Hut Delivery. All rights reserved.</small></p>
+</div>        </div>
+        <!-- Modal -->
+		
+        <div class="modal fade" id="msgmodal" role="dialog">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="row">
+                        <div>
+                            <div style="margin-right: 35px; margin-left: 35px;">
+                                <div class="row ord-onl-header">
+                                    <div class="col-md-12 col-sm-12 col-xs-12 text-middle">
+                                        <img src="home-logo-wide-white.png" style="width: 200px; padding: 10px 0px">
+                                        <button type="button" class="close order-online-product-modal-x ord-onl-header-close" data-dismiss="modal">
+                                            <span class="glyphicon glyphicon-remove-sign ord-onl-txt-red" aria-hidden="true"></span>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="row ord-onl-div-border">
+                                    <div class="col-md-12 col-sm-12 col-xs-12">
+                                        <h2 class="basket-header heading-hr--dotted checkout-header-text" id="modal-msg-header">Got a voucher?</h2>
+                                        <div class="row" style="margin-bottom: 20px">
+                                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                                <p id="modal-msg-message">Some text in the modal.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                 
+            </div>
+        </div>
+		
+    </footer>
+
+<!-- Modal -->
+  <div class="modal fade" id="modalCovid19" role="dialog">
+    <div class="modal-dialog modal-sm modal-dialog-covid modal-sm-covid">
+      <div class="modal-content">
+        <div class="modal-header covid19title">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title covid19title">COVID 19 RESPONSE</h4>
+        </div>
+        <div class="modal-body">
+          <h2 class="covid19h2">Contact-Free Delivery</h2>
+		  <p class="covid19p"><small>We are now delivering CONTACT-FREE so you can still get restaurant-quality pizzas straight to your door.</small><br><br></p>
+		  <p>1. Simply give us your instructions at checkout</p>
+		  <p>2. Pay for the order with Debit/Credit Card</p>
+		  <p>3. Our drivers will drop off your food & call you</p>
+		  <br>
+		  <button type="button" class="btn btn-default ord-online-btn" data-dismiss="modal">Continue with order</button>
+		  <p class="covid19p"><small><a href="contact-free-delivery.php">Find out more about contact-free delivery and how we are responding to COVID-19</a></small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div id="cookie-info" class="cookies-info">
+        <strong class="cookie-warning">Our Website Uses Cookies</strong>
+        <p class="cookies-msg"><small>Cookies are small text files held on your computer. They allow us to give you the best browsing experience possible and mean we can understand how you use our site. Some cookies have already been set. You can delete and block cookies but parts of our site won't work without them. By using our website you accept our use of cookies.</small></p>
+        <p style="text-align: right" class="cookies-btn"> <a class="btn btn-cookies-close" onclick="hide('cookie-info')">Close</a></p>
+    </div>
+    <script>
+			function hide(target) {
+				document.getElementById(target).style.display = 'none';
+				setCookie("we-love-cookies", "1", "365");
+			}	
+			function setCookie(cname, cvalue, exdays) {
+				var d = new Date();
+				d.setTime(d.getTime() + (exdays*24*60*60*1000));
+				var expires = "expires="+ d.toUTCString();
+				document.cookie = cname + "=" + cvalue + "; " + expires;
+			}
+		</script>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+	
+	<!-- preloader
+	<script>
+		$(window).on('load', function() { // makes sure the whole site is loaded 
+		  $('#status').fadeOut(); // will first fade out the loading animation 
+		  $('#preloader').fadeOut('slow'); // will fade out the white DIV that covers the website. 
+		  $('body').delay(350).css({'overflow':'visible'});
+		})
+		</script>
+
+		-->
+	
+	<script>
+	function save_records_in_db(session_id,ip_address,store_locator){
+        $.post("phptest.php",
+        {
+          sessionid: session_id,
+          ipaddress: ip_address,
+		  store: store_locatior
+        },
+        function(data,status){
+            //alert("Data: " + data + "\nStatus: " + status);
+        });
+	}
+	</script>
+
+
+
+	<!-- google maps -->
+    <script>
+		  // This example displays an address form, using the autocomplete feature
+		  // of the Google Places API to help users fill in the information.
+
+		  // This example requires the Places library. Include the libraries=places
+		  // parameter when you first load the API. For example:
+		  // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places">
+
+		  var placeSearch, autocomplete;
+		  var componentForm = {
+			street_number: 'short_name',
+			route: 'long_name',
+			locality: 'long_name',
+			administrative_area_level_1: 'short_name',
+			country: 'long_name',
+			postal_code: 'short_name'
+		  };
+
+		  function initAutocomplete() {
+			// Create the autocomplete object, restricting the search to geographical
+			// location types.
+
+			var optionT = {
+				types: ['geocode'],
+				componentRestrictions: {country: "ie"}
+			}
+			autocomplete = new google.maps.places.Autocomplete((document.getElementById('autocomplete')), optionT);
+
+			// When the user selects an address from the dropdown, populate the address
+			// fields in the form.
+			autocomplete.addListener('place_changed', fillInAddress);
+		  }
+
+		  function fillInAddress() {
+			// Get the place details from the autocomplete object.
+			var place = autocomplete.getPlace();
+			//var lat = 0;
+			//var lng = 0;
+
+			//lat = place.geometry.location.lat();
+			//lng = place.geometry.location.lng();
+
+			// Then do whatever you want with them
+
+			//console.log(lat);
+			//console.log(lng);
+
+
+			for (var component in componentForm) {
+			  //document.getElementById(component).value = '';
+			  //document.getElementById(component).disabled = false;
+			}
+
+			// Get each component of the address from the place details
+			// and fill the corresponding field on the form.
+			for (var i = 0; i < place.address_components.length; i++) {
+			  var addressType = place.address_components[i].types[0];
+			  if (componentForm[addressType]) {
+				var val = place.address_components[i][componentForm[addressType]];
+				//document.getElementById(addressType).value = '';
+				//document.getElementById(addressType).value = val;
+
+
+			  }
+			}
+			la();
+			//fs(lat, lng);
+			
+			
+			
+
+		  }
+
+		  // Bias the autocomplete object to the user's geographical location,
+		  // as supplied by the browser's 'navigator.geolocation' object.
+		  function geolocate() {
+			if (navigator.geolocation) {
+			  navigator.geolocation.getCurrentPosition(function(position) {
+				var geolocation = {
+				  lat: position.coords.latitude,
+				  lng: position.coords.longitude
+				};
+				var circle = new google.maps.Circle({
+				  center: geolocation,
+				  radius: position.coords.accuracy
+				});
+				autocomplete.setBounds(circle.getBounds());
+			  });
+			}
+		  }
+		</script>
+		<!--
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCN4-WY6nEjUZWfTdv-cU5JAYRQMvDfZt8&libraries=places&callback=initAutocomplete" async defer></script>
+    <script src="https://maps.google.com/maps?file=api&amp;v=3.x&amp;key=AIzaSyCN4-WY6nEjUZWfTdv-cU5JAYRQMvDfZt8" type="text/javascript"></script>    
+	
+	-->
+	
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAomkHPLSYJdbUtyATMAwPVmX3nzkS-WNY&libraries=places&callback=initAutocomplete" async defer></script>
+    <script src="https://maps.google.com/maps?file=api&amp;v=3.x&amp;key=AIzaSyAomkHPLSYJdbUtyATMAwPVmX3nzkS-WNY" type="text/javascript"></script>    
+    <!-- geolocator -->
+    <script src="js1.1/gl2.js" type="text/javascript"></script>
+    <script src="js1.1/common1.js" type="text/javascript"></script>
+    <script type="text/javascript">
+			var stores = [];
+			function loadStores() {
+				var storesc = 0;
+										stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Belfield';
+						stores[storesc-1][1] = '(53.29979963435106, -6.161484718322754),(53.29831205870862, -6.163287162780762),(53.29854289280799, -6.170250177383423),(53.29742718310333, -6.170775890350342),(53.29638839269559, -6.169896125793457),(53.2952982768294, -6.169638633728027),(53.29470832017009, -6.168866157531738),(53.29351555681716, -6.169981956481934),(53.29213037048141, -6.17056131362915),(53.29102731960858, -6.172127723693848),(53.29025773236517, -6.1736297607421875),(53.28924762806932, -6.1748528480529785),(53.28939513685244, -6.17757260799408),(53.28908087839686, -6.180544495582581),(53.289292522100716, -6.184455156326294),(53.29059442849, -6.188167333602905),(53.29059122187276, -6.191112399101257),(53.28937589660527, -6.195361018180847),(53.290796444891214, -6.197415590286255),(53.29201814276966, -6.199400424957275),(53.2936438125392, -6.201975345611572),(53.29506421891246, -6.203348636627197),(53.29643648540185, -6.203965544700623),(53.296792369745134, -6.204153299331665),(53.29644931011438, -6.205467581748962),(53.29591066887297, -6.207479238510132),(53.2957663888156, -6.208198070526123),(53.2953559895433, -6.21026337146759),(53.29539767089929, -6.2109822034835815),(53.29536881458025, -6.213498115539551),(53.29532392693409, -6.215300559997559),(53.295320720671846, -6.216110587120056),(53.295545158447766, -6.219930052757263),(53.29500329951826, -6.220327019691467),(53.29455121077279, -6.221104860305786),(53.294067053689844, -6.222177743911743),(53.293855433638704, -6.222601532936096),(53.29356044636367, -6.223347187042236),(53.29328469554703, -6.224173307418823),(53.2931179616316, -6.225192546844482),(53.29301214938614, -6.226099133491516),(53.292858240197624, -6.227300763130188),(53.292749220853594, -6.228427290916443),(53.29267547231604, -6.229231953620911),(53.29287427243062, -6.229666471481323),(53.29237727040944, -6.231130957603455),(53.29182895824532, -6.232466697692871),(53.29145058668321, -6.233475208282471),(53.29043089070364, -6.234108209609985),(53.28939193014518, -6.234794855117798),(53.28932458923711, -6.236189603805542),(53.28945606424466, -6.236656308174133),(53.28940475697278, -6.237772107124329),(53.289526611642906, -6.239284873008728),(53.291277432477735, -6.2406206130981445),(53.29134477030771, -6.2412214279174805),(53.291723142807044, -6.242246031761169),(53.2918802626059, -6.242798566818237),(53.292172054984974, -6.243383288383484),(53.292338792592446, -6.244268417358398),(53.29273318857365, -6.244869232177734),(53.29322698003457, -6.245893836021423),(53.29399651378929, -6.250737905502319),(53.29468266969572, -6.25545859336853),(53.29584975068598, -6.254396438598633),(53.29648457805396, -6.25422477722168),(53.29717069399354, -6.254568099975586),(53.29790168389591, -6.254396438598633),(53.29888914161781, -6.253741979598999),(53.299620102109074, -6.2530553340911865),(53.30164620789356, -6.251252889633179),(53.30220401128164, -6.251370906829834),(53.3036337499116, -6.253452301025391),(53.30408894812821, -6.254611015319824),(53.30504420748187, -6.255544424057007),(53.30613407460355, -6.258076429367065),(53.307236735379945, -6.259642839431763),(53.307300842688676, -6.260061264038086),(53.30756368164813, -6.260436773300171),(53.3086406634125, -6.25995397567749),(53.309679155813335, -6.26120924949646),(53.310999671394406, -6.262732744216919),(53.31121120650242, -6.257765293121338),(53.31358930179549, -6.257840394973755),(53.31357888589879, -6.258044242858887),(53.31355805409774, -6.2585873901844025),(53.31349635985803, -6.26071572303772),(53.3134771304664, -6.262303590774536),(53.31341303243171, -6.263864636421204),(53.316031358807656, -6.265221834182739),(53.31741577001727, -6.264975070953369),(53.31858222978897, -6.264374256134033),(53.31999219354674, -6.264975070953369),(53.3218122596996, -6.266005039215088),(53.32250437715976, -6.2656402587890625),(53.32715665317134, -6.264760494232178),(53.32996315287842, -6.264288425445557),(53.330027226058554, -6.2627434730529785),(53.330347590515615, -6.260018348693848),(53.3319237486078, -6.252658367156982),(53.331218969667255, -6.252164840698242),(53.331218969667255, -6.25147819519043),(53.33042447762732, -6.250512599945068),(53.32937367510607, -6.24847412109375),(53.328617593865836, -6.24697208404541),(53.32786149922582, -6.244654655456543),(53.327835868664216, -6.242315769195557),(53.33001441143021, -6.234719753265381),(53.32977093276068, -6.232445240020752),(53.32888670906353, -6.230578422546387),(53.32797683656244, -6.226952075958252),(53.327348885068304, -6.225321292877197),(53.326503058242984, -6.2242913246154785),(53.32742577758459, -6.221673488616943),(53.32856633363573, -6.219313144683838),(53.33018100129819, -6.217489242553711),(53.33052699356069, -6.215729713439941),(53.33209033101965, -6.215794086456299),(53.332346610383, -6.215461492538452),(53.3318981204867, -6.214356422424316),(53.3316162101384, -6.212736368179321),(53.332923233320955, -6.210290193557739),(53.32669529308478, -6.205859184265137),(53.3193897601862, -6.2041425704956055),(53.312211176459776, -6.196503639221191),(53.30633922295067, -6.183757781982422),(53.30149232981463, -6.167793273925781),(53.29979963435106, -6.161484718322754)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Castleknock';
+						stores[storesc-1][1] = '(53.367211868541425, -6.302762031555176),(53.36618757991733, -6.305937767028809),(53.36499681343734, -6.308019161224365),(53.36280725273084, -6.311516761779785),(53.36262798546761, -6.311817169189453),(53.363088956906395, -6.314349174499512),(53.365022421668804, -6.319541931152344),(53.3650992462708, -6.320486068725586),(53.36558579886662, -6.321558952331543),(53.36580346533427, -6.3230180740356445),(53.36918355481231, -6.328146457672119),(53.37078388241694, -6.333532333374023),(53.371206358873536, -6.33711576461792),(53.36970846889246, -6.348445415496826),(53.36965725804741, -6.349325180053711),(53.366418047004856, -6.351299285888672),(53.35832534488159, -6.356148719787598),(53.358133252582284, -6.356191635131836),(53.357774677973616, -6.357007026672363),(53.359068093625595, -6.359281539916992),(53.35988766342322, -6.361727714538574),(53.36047671947944, -6.363229751586914),(53.36115540440516, -6.364474296569824),(53.36198773908486, -6.366856098175049),(53.36234627824439, -6.368873119354248),(53.36255115640963, -6.3720703125),(53.36279444795132, -6.3767266273498535),(53.36267920476263, -6.382284164428711),(53.362487132088816, -6.38331413269043),(53.36205176415606, -6.384000778198242),(53.36125784647386, -6.386446952819824),(53.360668801215496, -6.389322280883789),(53.360540746820995, -6.392068862915039),(53.36093131152121, -6.395330429077148),(53.36132187264176, -6.399600505828857),(53.36168681996172, -6.402915716171265),(53.36217341152625, -6.406810283660889),(53.36349870510976, -6.408730745315552),(53.364395015567304, -6.4087629318237305),(53.36602113068986, -6.409170627593994),(53.36607234590601, -6.409052610397339),(53.36682136140814, -6.4099860191345215),(53.36744873177986, -6.4102864265441895),(53.36959324440454, -6.409975290298462),(53.37125756785628, -6.409728527069092),(53.373107451075406, -6.40926718711853),(53.372755403365495, -6.407926082611084),(53.37619254470217, -6.407636404037476),(53.37681977706551, -6.407443284988403),(53.37728059495603, -6.406960487365723),(53.37796541233205, -6.406810283660889),(53.378323817036126, -6.40652060508728),(53.37964860824238, -6.405608654022217),(53.380179793140606, -6.408816576004028),(53.38078776772315, -6.412485837936401),(53.38119734570603, -6.4148783683776855),(53.381798906225875, -6.4179253578186035),(53.382477251510466, -6.420779228210449),(53.38325157584326, -6.423450708389282),(53.383673928634956, -6.425381898880005),(53.3848001822637, -6.431186199188232),(53.385376095902146, -6.434458494186401),(53.38756449667997, -6.43449068069458),(53.38823635154155, -6.433889865875244),(53.39087887778869, -6.433128118515015),(53.3907893033139, -6.432312726974487),(53.390885275958254, -6.431690454483032),(53.390635746632846, -6.4300596714019775),(53.390488587627026, -6.429051160812378),(53.38966960647435, -6.4247167110443115),(53.38848589493239, -6.418472528457642),(53.38763488197221, -6.413944959640503),(53.38687983367466, -6.410082578659058),(53.386342333506605, -6.407153606414795),(53.38560006021321, -6.403087377548218),(53.38597119847761, -6.402679681777954),(53.38606078309117, -6.402572393417358),(53.3919793488096, -6.399739980697632),(53.39318215668341, -6.39878511428833),(53.394020263352225, -6.397765874862671),(53.39517183338395, -6.396210193634033),(53.39689913000946, -6.392959356307983),(53.39757723470572, -6.391714811325073),(53.391800204303166, -6.3809216022491455),(53.39233763556054, -6.379655599594116),(53.39244640058462, -6.37906551361084),(53.392670327700216, -6.3786256313323975),(53.39309258705566, -6.378368139266968),(53.39431455643537, -6.376297473907471),(53.39721899206157, -6.3723814487457275),(53.39798025407562, -6.3712334632873535),(53.399944119245426, -6.367381811141968),(53.40107633908094, -6.364313364028931),(53.40174158414207, -6.362746953964233),(53.402125374638494, -6.361942291259766),(53.403040061364344, -6.36033296585083),(53.40412742559487, -6.358734369277954),(53.40350059548979, -6.357414722442627),(53.40286735978213, -6.356492042541504),(53.40073731596241, -6.353445053100586),(53.39920848004265, -6.352415084838867),(53.39870312052562, -6.351449489593506),(53.39858797447969, -6.350194215774536),(53.39837687258625, -6.349679231643677),(53.397961062763606, -6.347640752792358),(53.39752605736975, -6.34236216545105),(53.39771797206226, -6.340752840042114),(53.39927884608167, -6.340216398239136),(53.39925965535529, -6.339733600616455),(53.39798025407562, -6.339036226272583),(53.39792907722434, -6.338253021240234),(53.397954665657664, -6.336643695831299),(53.39821054914473, -6.335817575454712),(53.3981273871802, -6.3351523876190186),(53.39801223957641, -6.3343799114227295),(53.39833849031128, -6.332738399505615),(53.39744289406756, -6.328897476196289),(53.394410521131206, -6.324198246002197),(53.39355322884749, -6.320850849151611),(53.39254236949268, -6.321280002593994),(53.39059735737604, -6.324026584625244),(53.38710379007513, -6.326837539672852),(53.386118373100366, -6.327245235443115),(53.37552049977598, -6.3202714920043945),(53.37552049977598, -6.319788694381714),(53.375488497372125, -6.31738543510437),(53.375424492492265, -6.314510107040405),(53.37510446665016, -6.312021017074585),(53.37469483006327, -6.308727264404297),(53.37454121532745, -6.3086628913879395),(53.37384994215983, -6.30740761756897),(53.37345949587557, -6.30689263343811),(53.37308824854809, -6.306495666503906),(53.37128957343919, -6.306184530258179),(53.3707134692668, -6.306474208831787),(53.37054703772195, -6.306474208831787),(53.37015656116042, -6.306431293487549),(53.36909393468878, -6.3059163093566895),(53.36744233008802, -6.302858591079712),(53.36732709947055, -6.30266547203064),(53.367211868541425, -6.302762031555176)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Clontarf';
+						stores[storesc-1][1] = '(53.347835838312314, -6.175861358642578),(53.34368543078403, -6.200408935546875),(53.345991262623635, -6.230707168579102),(53.347938312399485, -6.251564025878906),(53.34960348179378, -6.251263618469238),(53.352510967794636, -6.2491607666015625),(53.35520053596674, -6.246178150177002),(53.35797957811943, -6.242079734802246),(53.36072002286555, -6.2392473220825195),(53.362896886079625, -6.2398481369018555),(53.366558887389075, -6.239933967590332),(53.372115309165366, -6.238088607788086),(53.374009960094746, -6.24323844909668),(53.380998956862534, -6.239418983459473),(53.382432455457, -6.244397163391113),(53.38396189404537, -6.243538856506348),(53.385843220131214, -6.242852210998535),(53.387545300670986, -6.2424445152282715),(53.38771166579466, -6.240384578704834),(53.38781244435149, -6.238662600517273),(53.387881229578646, -6.237565577030182),(53.38774045969239, -6.235956251621246),(53.38659988651728, -6.234185993671417),(53.38530250737135, -6.233443021774292),(53.3853568989064, -6.233142614364624),(53.38553927001671, -6.231096088886261),(53.38565605110689, -6.229602098464966),(53.385531271300174, -6.227032542228699),(53.3853121058826, -6.225385665893555),(53.38459221153526, -6.221563518047333),(53.38417786682505, -6.215861141681671),(53.383613135688215, -6.213726103305817),(53.38265483540147, -6.212851703166962),(53.38081176654176, -6.2115830183029175),(53.3799294010849, -6.210385411977768),(53.3812117448603, -6.208503842353821),(53.38244365447478, -6.206969618797302),(53.382979604024975, -6.2057022750377655),(53.383313969133035, -6.205219477415085),(53.382982003783916, -6.204798370599747),(53.38268283279415, -6.204255223274231),(53.38241645685508, -6.203238666057587),(53.38239245894089, -6.201835870742798),(53.38239805845542, -6.200560480356216),(53.38240205810817, -6.198908239603043),(53.38240845755185, -6.1975255608558655),(53.38269083204584, -6.197195649147034),(53.382678833167766, -6.194575130939484),(53.38308999279598, -6.1937302350997925),(53.38339396039644, -6.192027032375336),(53.383833909658975, -6.191917061805725),(53.38394429621504, -6.190610826015472),(53.3848849700384, -6.188282668590546),(53.3837555190323, -6.186676025390625),(53.38274762668953, -6.185157895088196),(53.38106935300958, -6.178908348083496),(53.38206768583887, -6.173661947250366),(53.38444823120507, -6.166505813598633),(53.38410907561413, -6.16507887840271),(53.382854816374014, -6.165872812271118),(53.38191409769633, -6.161860227584839),(53.38136373563625, -6.161227226257324),(53.3804549827112, -6.160637140274048),(53.38009659594359, -6.160111427307129),(53.38010939552293, -6.159435510635376),(53.37981500422443, -6.15659236907959),(53.378906218246904, -6.152794361114502),(53.36975967967594, -6.161785125732422),(53.3559561460097, -6.182041168212891),(53.347835838312314, -6.175861358642578)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Dundalk';
+						stores[storesc-1][1] = '(54.011904685369075, -6.4441680908203125),(54.018057371688755, -6.441764831542969),(54.02360409573505, -6.436786651611328),(54.029049250683514, -6.431465148925781),(54.03187238368677, -6.426143646240234),(54.034695325018475, -6.411895751953125),(54.034594508985585, -6.384944915771484),(54.0333846975222, -6.3755035400390625),(54.018662504800666, -6.357479095458984),(54.00857580366483, -6.337223052978516),(53.993945743234484, -6.325893402099609),(53.97961338981975, -6.299629211425781),(53.97426272625379, -6.305809020996094),(53.96042858163874, -6.315422058105469),(53.950832865351565, -6.322288513183594),(53.94790320672942, -6.333961486816406),(53.949317550379234, -6.390953063964844),(53.95133795810711, -6.417217254638672),(53.95830761342406, -6.417217254638672),(53.962448451049355, -6.418933868408203),(53.969113325738725, -6.421337127685547),(53.97416176373234, -6.422023773193359),(53.982036105776736, -6.4290618896484375),(53.98334835142273, -6.429233551025391),(53.985568980647656, -6.4318084716796875),(54.011904685369075, -6.4441680908203125)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Finglas';
+						stores[storesc-1][1] = '(53.40933999167608, -6.267292499542236),(53.40896905716218, -6.275660991668701),(53.40859811941366, -6.282098293304443),(53.40811205815736, -6.2917327880859375),(53.40800972876411, -6.293599605560303),(53.40761320004026, -6.298513412475586),(53.40689688071811, -6.302847862243652),(53.40607821529459, -6.306817531585693),(53.40542583000598, -6.30990743637085),(53.40358374695337, -6.314263343811035),(53.40038549666263, -6.318361759185791),(53.397468482793236, -6.318812370300293),(53.397417305326506, -6.319692134857178),(53.39434654469133, -6.3190484046936035),(53.394500087985406, -6.320292949676514),(53.39251677780504, -6.321194171905518),(53.39054617164643, -6.323940753936768),(53.38703980265237, -6.326708793640137),(53.38609277755033, -6.3271379470825195),(53.375571703572135, -6.32014274597168),(53.37552049977598, -6.317235231399536),(53.37552049977598, -6.3159263134002686),(53.37546929591828, -6.314499378204346),(53.37529008193148, -6.31290078163147),(53.3751556709465, -6.311838626861572),(53.37489964884921, -6.309950351715088),(53.37479083899182, -6.309167146682739),(53.37473323366067, -6.308619976043701),(53.37459242030094, -6.308566331863403),(53.37405476500878, -6.307600736618042),(53.373728328127235, -6.3071393966674805),(53.37341469033535, -6.306753158569336),(53.37299223578158, -6.306356191635132),(53.37256977703775, -6.306205987930298),(53.37231373939616, -6.306184530258179),(53.37130237566564, -6.306130886077881),(53.37101432463998, -6.306281089782715),(53.37052143281119, -6.306420564651489),(53.370169363727385, -6.306356191635132),(53.36911313901682, -6.3058412075042725),(53.36879946724114, -6.305358409881592),(53.36849219469084, -6.304725408554077),(53.36819132150445, -6.304049491882324),(53.36797366723647, -6.303684711456299),(53.36776241350118, -6.303234100341797),(53.36745513347073, -6.302772760391235),(53.36732069776044, -6.3023436069488525),(53.367282287479604, -6.300144195556641),(53.36722467199337, -6.2987494468688965),(53.367192663356256, -6.297397613525391),(53.36701341454396, -6.294887065887451),(53.36686617388394, -6.293578147888184),(53.366629307406555, -6.2921833992004395),(53.36611715916967, -6.290305852890015),(53.365432151278746, -6.289372444152832),(53.36507363808552, -6.288954019546509),(53.36487517412774, -6.2886857986450195),(53.36477914284853, -6.287709474563599),(53.364388613416594, -6.2858641147613525),(53.36376760022682, -6.282699108123779),(53.36325541758926, -6.279705762863159),(53.363197796657225, -6.279212236404419),(53.36302493339368, -6.276658773422241),(53.362909690828346, -6.275564432144165),(53.36249993696067, -6.272839307785034),(53.36314017564732, -6.272495985031128),(53.36383162262362, -6.272152662277222),(53.364363004804204, -6.271927356719971),(53.36520167885799, -6.271852254867554),(53.365893092380055, -6.271573305130005),(53.36713504774883, -6.2708330154418945),(53.36878666426245, -6.269824504852295),(53.37038700677714, -6.268644332885742),(53.370975917689385, -6.267764568328857),(53.371840065701896, -6.266723871231079),(53.372467362165786, -6.266112327575684),(53.373574709905476, -6.266112327575684),(53.374406801979106, -6.2657904624938965),(53.37618614432433, -6.264985799789429),(53.37575091637391, -6.263430118560791),(53.37532848499213, -6.2613701820373535),(53.37518767360043, -6.260726451873779),(53.37479083899182, -6.258838176727295),(53.37439400068571, -6.257121562957764),(53.37398435726556, -6.255254745483398),(53.3737923355561, -6.256434917449951),(53.37339548794653, -6.256520748138428),(53.3728450157859, -6.253988742828369),(53.37280661048596, -6.252615451812744),(53.374573218443096, -6.251392364501953),(53.37512366826849, -6.251134872436523),(53.376058136565305, -6.2502336502075195),(53.37649336137616, -6.249675750732422),(53.37714619025304, -6.248753070831299),(53.378234216142886, -6.247701644897461),(53.38060217640265, -6.245706081390381),(53.382406857691, -6.244547367095947),(53.38398109167013, -6.243646144866943),(53.38604158640414, -6.24298095703125),(53.38903616493251, -6.242272853851318),(53.39124997003334, -6.241672039031982),(53.39442331640763, -6.240534782409668),(53.396368153695036, -6.239418983459473),(53.39897819037415, -6.237187385559082),(53.40236844016237, -6.2337541580200195),(53.40648754997562, -6.229805946350098),(53.408956266259196, -6.2276387214660645),(53.410030688703394, -6.227059364318848),(53.41065742259655, -6.228218078613281),(53.40930161929015, -6.260554790496826),(53.40902022073571, -6.265597343444824),(53.409033011619485, -6.266241073608398),(53.40933999167608, -6.267292499542236)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Kilbarrack';
+						stores[storesc-1][1] = '(53.379552610264646, -6.15483283996582),(53.37989820197163, -6.15659236907959),(53.38020539224546, -6.159703731536865),(53.38020539224546, -6.160261631011963),(53.380538179208, -6.16058349609375),(53.381485327866365, -6.161205768585205),(53.38195889429513, -6.161785125732422),(53.382880413870694, -6.165754795074463),(53.38417306744186, -6.164960861206055),(53.38454421814597, -6.166484355926514),(53.38211248227608, -6.17382287979126),(53.3811781468261, -6.179015636444092),(53.38276522501445, -6.185131072998047),(53.3849281637455, -6.188263893127441),(53.38395549483518, -6.190645694732666),(53.38385310734144, -6.191954612731934),(53.383405159161335, -6.192061901092529),(53.38311079064833, -6.193757057189941),(53.38270123107076, -6.194615364074707),(53.38270123107076, -6.197211742401123),(53.382419656575934, -6.197555065155029),(53.382406857691, -6.201717853546143),(53.382432455457, -6.203241348266602),(53.38270123107076, -6.204249858856201),(53.38299560241532, -6.20478630065918),(53.38334116617948, -6.2052154541015625),(53.38299560241532, -6.205730438232422),(53.382445254334236, -6.206996440887451),(53.381216544577306, -6.208541393280029),(53.37996220012807, -6.210386753082275),(53.380832565506914, -6.211566925048828),(53.382688432270484, -6.212832927703857),(53.38363553309975, -6.213712692260742),(53.38419866414599, -6.215858459472656),(53.384608209319666, -6.2215447425842285),(53.38483857674864, -6.222789287567139),(53.3853249038942, -6.2253642082214355),(53.385555267445255, -6.2270379066467285),(53.385683246657244, -6.229591369628906),(53.38536329790594, -6.233432292938232),(53.38660468562689, -6.234161853790283),(53.38775645629382, -6.235942840576172),(53.38791002336168, -6.237552165985107),(53.38776925357063, -6.239912509918213),(53.38756449667997, -6.242573261260986),(53.38966320812207, -6.242015361785889),(53.39153788420126, -6.241425275802612),(53.39460884748357, -6.240255832672119),(53.396540881656875, -6.239086389541626),(53.398971793421104, -6.2370264530181885),(53.40201023785304, -6.2339794635772705),(53.40531709815193, -6.230792999267578),(53.40665384106479, -6.229462623596191),(53.40897545261225, -6.227402687072754),(53.4110795034841, -6.2260401248931885),(53.41147599989647, -6.2148284912109375),(53.40728062471216, -6.192598342895508),(53.41920054729289, -6.188650131225586),(53.42753739134196, -6.184530258178711),(53.42677026540107, -6.160497665405273),(53.41858672729585, -6.142730712890625),(53.403801219243675, -6.126594543457031),(53.391211581330474, -6.108055114746094),(53.3853249038942, -6.111917495727539),(53.38020539224546, -6.141185760498047),(53.378874218387175, -6.151485443115234),(53.379552610264646, -6.15483283996582)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Longford';
+						stores[storesc-1][1] = '(53.788207,-7.8292889),(53.7758371,-7.8887085),(53.745186,-7.9261059),(53.7230495,-7.9291958),(53.6781316,-7.9013867),(53.6634873,-7.879414),(53.6592151,-7.7853436),(53.659622,-7.7132458),(53.6716236,-7.676167),(53.7021209,-7.650761),(53.7346269,-7.6349682),(53.7695429,-7.7032894),(53.7878014,-7.7702374),(53.788207,-7.8292889),(53.788207,-7.8292889)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Lucan';
+						stores[storesc-1][1] = '(53.361513950568195, -6.383056640625),(53.360335858989366, -6.386232376098633),(53.36002852539483, -6.392841339111328),(53.360848076721325, -6.401338577270508),(53.36228225361575, -6.411724090576172),(53.36433099401706, -6.425886154174805),(53.366277206155054, -6.437816619873047),(53.368735452309274, -6.447343826293945),(53.37073267286475, -6.458587646484375),(53.37180806053258, -6.464338302612305),(53.362692009576776, -6.468801498413086),(53.35736487472653, -6.4757537841796875),(53.35131981909592, -6.478157043457031),(53.33932963040544, -6.476097106933594),(53.33092424047564, -6.472921371459961),(53.31979992850455, -6.45970344543457),(53.31287781008478, -6.44047737121582),(53.30595456899123, -6.425371170043945),(53.30397354622261, -6.421444416046143),(53.3043325733492, -6.419314742088318),(53.303627338634456, -6.417469382286072),(53.30791306263806, -6.4054155349731445),(53.31030416221113, -6.401939392089844),(53.31224643138336, -6.397009491920471),(53.31312779501017, -6.391189098358154),(53.31879372732227, -6.368245482444763),(53.32328620004725, -6.3723063468933105),(53.32638771692214, -6.375675201416016),(53.333051370693084, -6.382691860198975),(53.33736937507377, -6.386661529541016),(53.34103357000619, -6.3875412940979),(53.34729784531364, -6.38629674911499),(53.354432105235325, -6.384708881378174),(53.357262423299034, -6.3840651512146),(53.361513950568195, -6.383056640625)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Ormeau Road';
+						stores[storesc-1][1] = '(54.60011337229497, -5.912017822265625),(54.59971561064493, -5.923347473144531),(54.596533377560995, -5.924034118652344),(54.59533997604, -5.942573547363281),(54.592157401006745, -5.944633483886719),(54.592356319232415, -5.9525299072265625),(54.588775642530294, -5.9593963623046875),(54.58141437409423, -5.966606140136719),(54.573255739231655, -5.976219177246094),(54.569076293677355, -5.988578796386719),(54.562308663695305, -5.9937286376953125),(54.55275244993516, -5.996818542480469),(54.54598211029752, -5.994758605957031),(54.541799868588676, -5.980682373046875),(54.538015566222576, -5.96282958984375),(54.53383250794428, -5.946693420410156),(54.531641211077556, -5.926780700683594),(54.5306451281593, -5.9099578857421875),(54.534031710917255, -5.8879852294921875),(54.53980817424605, -5.860862731933594),(54.55753083672225, -5.837516784667969),(54.57723576516586, -5.825157165527344),(54.59434544805755, -5.821037292480469),(54.60667587855266, -5.8344268798828125),(54.61621945397665, -5.842323303222656),(54.621785506259364, -5.848846435546875),(54.625363280670996, -5.858116149902344),(54.63748562083948, -5.8605194091796875),(54.63529989209971, -5.8742523193359375),(54.62576079173895, -5.890045166015625),(54.60568162741719, -5.914421081542969),(54.60011337229497, -5.912017822265625)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Rathfarnham';
+						stores[storesc-1][1] = '(53.26499795973849, -6.365171670913696),(53.265848213864835, -6.364447474479675),(53.26677705706836, -6.363634765148163),(53.26733852417699, -6.363138556480408),(53.26807483701076, -6.3624948263168335),(53.26870045233044, -6.361947655677795),(53.269383806296, -6.36134147644043),(53.269937218756695, -6.360855996608734),(53.270474583421574, -6.360383927822113),(53.27107931110141, -6.359852850437164),(53.27167761415433, -6.359321773052216),(53.27224864089406, -6.35883092880249),(53.27301534457677, -6.358146965503693),(53.27380769753237, -6.3570767641067505),(53.2745358794031, -6.356092393398285),(53.27567464116121, -6.354544758796692),(53.276308164498644, -6.353522837162018),(53.277122909823326, -6.352221965789795),(53.27803065896097, -6.350757479667664),(53.27894640754907, -6.349282264709473),(53.279943925715116, -6.347664892673492),(53.28106811040557, -6.3458651304244995),(53.28243761927307, -6.343660354614258),(53.283690023973826, -6.341635286808014),(53.28522942120613, -6.339156925678253),(53.28672386629848, -6.33662223815918),(53.28896864267396, -6.330893039703369),(53.289879346886764, -6.323865652084351),(53.290834924097425, -6.316409111022949),(53.290841337295085, -6.314574480056763),(53.29089745273359, -6.314815878868103),(53.29247025832408, -6.318576335906982),(53.29384902089352, -6.320185661315918),(53.295330339457855, -6.323146820068359),(53.29611907253987, -6.325002908706665),(53.296927027912574, -6.325818300247192),(53.29801710221052, -6.32613480091095),(53.298643882334154, -6.325700283050537),(53.2995896456717, -6.325171887874603),(53.30042318243599, -6.324560344219208),(53.30069728424045, -6.324034631252289),(53.30172474961594, -6.323270201683044),(53.30207257550727, -6.323020756244659),(53.30312405037518, -6.322406530380249),(53.30343339704595, -6.322229504585266),(53.30428288673934, -6.322304606437683),(53.30490636936428, -6.322363615036011),(53.30539200633558, -6.32213830947876),(53.30563722686598, -6.322025656700134),(53.30635204468964, -6.321379244327545),(53.30652834321, -6.321223676204681),(53.30697709979524, -6.320193707942963),(53.307406619537666, -6.319244205951691),(53.308398665412234, -6.3200461864471436),(53.30920638848542, -6.320469975471497),(53.31011345610081, -6.3209474086761475),(53.311023709527646, -6.321277320384979),(53.31165670883178, -6.321178078651428),(53.312800891351664, -6.320419013500214),(53.31360692869184, -6.319727003574371),(53.3146276738192, -6.318428814411163),(53.31554263810806, -6.317066252231598),(53.31612749992591, -6.31676584482193),(53.31634541899224, -6.316784620285034),(53.31390337994884, -6.3095855712890625),(53.31246757523988, -6.299285888671875),(53.31000608337813, -6.285896301269531),(53.309877876788384, -6.284737586975098),(53.31010864837275, -6.283450126647949),(53.31154453242418, -6.278386116027832),(53.31210861651654, -6.274824142456055),(53.31300600766529, -6.269931793212891),(53.31341623733572, -6.26521110534668),(53.31341303243171, -6.263878047466278),(53.313402616491985, -6.263870000839233),(53.31342424959473, -6.2634193897247314),(53.31346110596676, -6.262554377317429),(53.31347392556694, -6.262071579694748),(53.313485142713965, -6.261169016361237),(53.313491552510925, -6.26064732670784),(53.3135228002574, -6.259614676237106),(53.31354603574635, -6.258663833141327),(53.313581289567495, -6.257857829332352),(53.31319029101277, -6.25784307718277),(53.312780860408836, -6.257833689451218),(53.31214787777392, -6.2578122317790985),(53.3112200204425, -6.25778004527092),(53.31117034184733, -6.2588998675346375),(53.31110864415669, -6.260430067777634),(53.31106858067348, -6.261337995529175),(53.31101088919161, -6.262742131948471),(53.31100047266572, -6.262754201889038),(53.31087547415701, -6.262609362602234),(53.31054775197016, -6.262227147817612),(53.31025127740878, -6.261885166168213),(53.309877075495976, -6.261453330516815),(53.30960143001905, -6.261131465435028),(53.30924965893309, -6.260717064142227),(53.3089018915024, -6.2602972984313965),(53.30863425288713, -6.259975433349609),(53.30794912243985, -6.260281205177307),(53.30754444958402, -6.260501146316528),(53.307262378315, -6.260098814964294),(53.30721429779917, -6.259685754776001),(53.306095609178705, -6.258113980293274),(53.30501535768011, -6.255598068237305),(53.304047275253815, -6.254648566246033),(53.30360489915687, -6.2534791231155396),(53.30218477680334, -6.251424551010132),(53.301659031041766, -6.2513333559036255),(53.29893402551726, -6.253817081451416),(53.297920920303326, -6.25447690486908),(53.29716107562197, -6.254637837409973),(53.29648137187885, -6.254294514656067),(53.29586257557467, -6.2544554471969604),(53.2946762570747, -6.255533695220947),(53.29464098764199, -6.255485415458679),(53.29463136870075, -6.255201101303101),(53.29434760895951, -6.253275275230408),(53.293959640613096, -6.250587701797485),(53.293656638090226, -6.248702108860016),(53.293355236623064, -6.246811151504517),(53.29320613830257, -6.245899200439453),(53.29308108769701, -6.245982348918915),(53.29228428229236, -6.246623396873474),(53.29134156374678, -6.247326135635376),(53.290379584602455, -6.2464892864227295),(53.2891450129633, -6.245427131652832),(53.2883689782442, -6.244745850563049),(53.287653859391675, -6.244123578071594),(53.28701890078233, -6.243447661399841),(53.28605041038768, -6.242390871047974),(53.28467781024018, -6.240910291671753),(53.28295558367076, -6.24248743057251),(53.282022281056555, -6.239874958992004),(53.28037371736227, -6.239783763885498),(53.279501299948905, -6.241178512573242),(53.277172628031316, -6.24197244644165),(53.276563175039676, -6.244493722915649),(53.27649260623717, -6.24448835849762),(53.27603069847105, -6.244279146194458),(53.27487269942061, -6.243796348571777),(53.273615224480686, -6.243823170661926),(53.272893442818535, -6.243839263916016),(53.27221014494913, -6.243571043014526),(53.270853140742375, -6.2430936098098755),(53.270397588302046, -6.243876814842224),(53.269351724194536, -6.246371269226074),(53.2685977878802, -6.248817443847656),(53.267869504859306, -6.2503087520599365),(53.26736579524878, -6.249858140945435),(53.264699564660006, -6.253795623779297),(53.26500758535152, -6.295166015625),(53.26336478269134, -6.332588195800781),(53.26499795973849, -6.365171670913696)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Sallynoggin';
+						stores[storesc-1][1] = '(53.29979482546156, -6.16146594285965),(53.29830724965162, -6.163276433944702),(53.29830724965162, -6.163295209407806),(53.29852686270252, -6.170236766338348),(53.29743038920746, -6.1707571148872375),(53.296391598877705, -6.169863939285278),(53.29530949875208, -6.169617176055908),(53.29470992332422, -6.1688232421875),(53.29350914402094, -6.169955134391785),(53.29211754447215, -6.170523762702942),(53.291012889975306, -6.1721062660217285),(53.29024009582836, -6.173597574234009),(53.28922999111552, -6.174839437007904),(53.28922518103593, -6.174914538860321),(53.28407968914041, -6.1771246790885925),(53.27866895864757, -6.184819936752319),(53.27524480225913, -6.177811324596405),(53.273563898187206, -6.173442006111145),(53.27264001436649, -6.171017289161682),(53.27109214342634, -6.167122721672058),(53.26928435170313, -6.1627694964408875),(53.26539260809579, -6.156356334686279),(53.261986640767326, -6.149379909038544),(53.260053316770424, -6.14710807800293),(53.25540656407834, -6.145434379577637),(53.25168366319169, -6.142516136169434),(53.2473184702388, -6.137151718139648),(53.244159847057894, -6.132516860961914),(53.24138622958715, -6.129341125488281),(53.23624942625595, -6.130027770996094),(53.231677152787114, -6.132345199584961),(53.22540874842882, -6.129341125488281),(53.2227880778908, -6.128997802734375),(53.22515182703529, -6.100330352783203),(53.26377548927306, -6.099815368652344),(53.270397588302046, -6.084022521972656),(53.288564591630205, -6.104450225830078),(53.300774224781605, -6.139383316040039),(53.300158696570946, -6.160154342651367),(53.29979482546156, -6.16146594285965)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Sandyford';
+						stores[storesc-1][1] = '(53.26713800105597, -6.2496113777160645),(53.26785667156711, -6.2502336502075195),(53.2685624969185, -6.248753070831299),(53.269313225641014, -6.246349811553955),(53.27036550696132, -6.243849992752075),(53.27083389214592, -6.243034601211548),(53.27291910637547, -6.243785619735718),(53.27488232281069, -6.243753433227539),(53.276537513670434, -6.244429349899292),(53.27712772126533, -6.241897344589233),(53.27946281053521, -6.241049766540527),(53.28035447305259, -6.239644289016724),(53.28204793913286, -6.239783763885498),(53.28296520524103, -6.242401599884033),(53.284684224362096, -6.240835189819336),(53.287717996100234, -6.244107484817505),(53.29012305317223, -6.246199607849121),(53.29134156374678, -6.247272491455078),(53.29317567729136, -6.245877742767334),(53.292731585345315, -6.2448906898498535),(53.29233558610612, -6.244279146194458),(53.29216243548775, -6.243391335010529),(53.29187384956421, -6.242809295654297),(53.29171833300816, -6.242256760597229),(53.29133515062423, -6.24123215675354),(53.29126620949577, -6.240634024143219),(53.29050624642809, -6.240051984786987),(53.28992584358801, -6.23960942029953),(53.28952180159673, -6.239295601844788),(53.28951538820098, -6.239271461963654),(53.28939513685244, -6.237777471542358),(53.28944323743248, -6.236661672592163),(53.289314969098704, -6.236194968223572),(53.289385516729936, -6.234786808490753),(53.289751079862306, -6.234537363052368),(53.290825304299105, -6.233839988708496),(53.29144257030029, -6.233461797237396),(53.29182575172075, -6.232445240020752),(53.29236604771639, -6.231114864349365),(53.292858240197624, -6.229669153690338),(53.29266745616297, -6.229240000247955),(53.29269631430693, -6.2288859486579895),(53.2928357950613, -6.227416098117828),(53.2929800850176, -6.226227879524231),(53.29310834234739, -6.225163042545319),(53.293275076300375, -6.224159896373749),(53.29354762078376, -6.223333775997162),(53.293861846382946, -6.222558617591858),(53.29441975144531, -6.221356987953186),(53.294552813932825, -6.221072673797607),(53.29500009323195, -6.220302879810333),(53.29553553971012, -6.219919323921204),(53.29543935221462, -6.2182992696762085),(53.29531110188365, -6.216148138046265),(53.29531270501519, -6.2157270312309265),(53.295330339457855, -6.214592456817627),(53.29536560832137, -6.212722957134247),(53.29538484587102, -6.210992932319641),(53.295347973893236, -6.210255324840546),(53.295580427133906, -6.2090349197387695),(53.295785626184745, -6.208039820194244),(53.2958866222306, -6.2074631452560425),(53.29622167089466, -6.206269562244415),(53.296511830532786, -6.20515376329422),(53.29676992667597, -6.204164028167725),(53.29646373791136, -6.2039923667907715),(53.29617999034274, -6.2038663029670715),(53.29584013201692, -6.203718781471252),(53.29539446464258, -6.203522980213165),(53.29505620320766, -6.203372776508331),(53.29466343182982, -6.202986538410187),(53.294310736086395, -6.20265394449234),(53.293890703720045, -6.202240884304047),(53.29362136781564, -6.201983392238617),(53.2932766795083, -6.2014201283454895),(53.293053833029255, -6.201074123382568),(53.29274120471436, -6.200575232505798),(53.29247827451415, -6.200162172317505),(53.29225863036239, -6.1998215317726135),(53.291973251602414, -6.199352145195007),(53.29171352320875, -6.198941767215729),(53.29141050475364, -6.198440194129944),(53.29117161567334, -6.198051273822784),(53.29100487351025, -6.19778037071228),(53.29079323828914, -6.197439730167389),(53.29063290787816, -6.197206377983093),(53.290278575535666, -6.196680665016174),(53.289994786879475, -6.196291744709015),(53.28971740970459, -6.195900142192841),(53.289449650839046, -6.195500493049622),(53.28936787983306, -6.195366382598877),(53.28937509492812, -6.195334196090698),(53.289500156382225, -6.194905042648315),(53.28960758067233, -6.194525510072708),(53.28972462474063, -6.194116473197937),(53.289852090176275, -6.1936672031879425),(53.28999879520697, -6.193157583475113),(53.290111028223656, -6.192759275436401),(53.29023528586249, -6.1923301219940186),(53.29037637796908, -6.191840618848801),(53.290479791774004, -6.19147315621376),(53.29058480863754, -6.191108375787735),(53.29058400698308, -6.1905960738658905),(53.29058641194643, -6.189902722835541),(53.29058480863754, -6.18929922580719),(53.29058641194643, -6.188689023256302),(53.29058801525527, -6.188172698020935),(53.290446923847625, -6.187763661146164),(53.29028979877709, -6.187315732240677),(53.290123854835365, -6.186850368976593),(53.28996191857998, -6.186391711235046),(53.289806395063835, -6.185939759016037),(53.28964365593303, -6.18548646569252),(53.28950095805704, -6.185076087713242),(53.289350242928904, -6.184644252061844),(53.28928370363396, -6.184452474117279),(53.28925644654349, -6.183906644582748),(53.289230792795394, -6.183431893587112),(53.28920754407287, -6.182987987995148),(53.28917948525296, -6.1824823915958405),(53.28916024490867, -6.18212565779686),(53.289132186057714, -6.181746125221252),(53.2891017221415, -6.18105411529541),(53.289073663252125, -6.180535107851028),(53.289135392784466, -6.179955750703812),(53.28922838775571, -6.17906928062439),(53.28932779594941, -6.178133189678192),(53.289389525114586, -6.177569925785065),(53.289360664736776, -6.1770495772361755),(53.28932378755899, -6.176429986953735),(53.2892997372085, -6.175974011421204),(53.28927328180732, -6.175444275140762),(53.289246024710174, -6.174944043159485),(53.28410053532493, -6.177148818969727),(53.27866093986641, -6.184873580932617),(53.27522234786936, -6.177835464477539),(53.272194104961834, -6.169939041137695),(53.26926831061811, -6.162815093994141),(53.265366940020684, -6.156377792358398),(53.26197861885661, -6.149425506591797),(53.25781985776565, -6.152772903442383),(53.25448228788499, -6.153717041015625),(53.25212015799248, -6.165561676025391),(53.24821722284202, -6.173973083496094),(53.24272169747502, -6.178436279296875),(53.23933158223226, -6.197834014892578),(53.261208508422875, -6.244182586669922),(53.26713800105597, -6.2496113777160645)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Swords';
+						stores[storesc-1][1] = '(53.470883067914144, -6.202125549316406),(53.47783061751601, -6.2381744384765625),(53.477217644186126, -6.270103454589844),(53.473335274124416, -6.272850036621094),(53.462708023859555, -6.272163391113281),(53.45187366525012, -6.262550354003906),(53.44062753992289, -6.264610290527344),(53.424673383862505, -6.268730163574219),(53.414852464740726, -6.266670227050781),(53.410708584139336, -6.265811920166016),(53.409941154536234, -6.26495361328125),(53.409889992070404, -6.258344650268555),(53.41060626099223, -6.241607666015625),(53.41116903525513, -6.226158142089844),(53.4227298403262, -6.219720840454102),(53.43152622307994, -6.2148284912109375),(53.43653730160516, -6.209850311279297),(53.43162849589479, -6.182727813720703),(53.43162849589479, -6.177148818969727),(53.43293245271278, -6.1766767501831055),(53.4358470350622, -6.177105903625488),(53.43965614397282, -6.176848411560059),(53.44121547931445, -6.17581844329834),(53.44297924867501, -6.174015998840332),(53.445918701565226, -6.172771453857422),(53.4473244549649, -6.177105903625488),(53.44898573991591, -6.175603866577148),(53.450340278019155, -6.174187660217285),(53.4506980733247, -6.173114776611328),(53.452129224406406, -6.172599792480469),(53.45317700086984, -6.171612739562988),(53.45399475966088, -6.170625686645508),(53.455604676264144, -6.172857284545898),(53.463627794914906, -6.195259094238281),(53.46454754604325, -6.202983856201172),(53.470883067914144, -6.202125549316406)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Tallaght';
+						stores[storesc-1][1] = '(53.29087,-6.31645),(53.28903,-6.33087),(53.28677,-6.33671),(53.27568,-6.35456),(53.27302,-6.35817),(53.26501,-6.3652),(53.26501,-6.37413),(53.26696,-6.37688),(53.26788,-6.39353),(53.27076,-6.40469),(53.27014,-6.41516),(53.27032,-6.42958),(53.26981,-6.44048),(53.27237,-6.45095),(53.27412,-6.45524),(53.27576,-6.46361),(53.27404,-6.48468),(53.27874,-6.48999),(53.28364,-6.46921),(53.284,-6.46095),(53.28538,-6.45606),(53.29077,-6.44657),(53.292,-6.4385),(53.29382,-6.43044),(53.29457,-6.43207),(53.29536,-6.42966),(53.2949,-6.42863),(53.30111,-6.4222),(53.30377,-6.42172),(53.30429,-6.41932),(53.30357,-6.41747),(53.30788,-6.40537),(53.31026,-6.4019),(53.31221,-6.39696),(53.31308,-6.39117),(53.31495,-6.38336),(53.31813,-6.37031),(53.3188,-6.36812),(53.32006,-6.3631),(53.32288,-6.35486),(53.3268,-6.34306),(53.33144,-6.34654),(53.33172,-6.34297),(53.33159,-6.33954),(53.33149,-6.33645),(53.33041,-6.33293),(53.32954,-6.3307),(53.32754,-6.32658),(53.32546,-6.32521),(53.32421,-6.32413),(53.32236,-6.32349),(53.32134,-6.32242),(53.32013,-6.32164),(53.31898,-6.32117),(53.31835,-6.32119),(53.31735,-6.32001),(53.31644,-6.31701),(53.31633,-6.3168),(53.31612,-6.3168),(53.31555,-6.3171),(53.31464,-6.31844),(53.31361,-6.31976),(53.31281,-6.32045),(53.31165,-6.3212),(53.31102,-6.3213),(53.31011,-6.32097),(53.30841,-6.32008),(53.3074,-6.31927),(53.30654,-6.32125),(53.30564,-6.32205),(53.3049,-6.32239),(53.30343,-6.32226),(53.30197,-6.3231),(53.3007,-6.32408),(53.30042,-6.3246),(53.29874,-6.32583),(53.29802,-6.32616),(53.29689,-6.32587),(53.29606,-6.32508),(53.29528,-6.32322),(53.2938,-6.32025),(53.29244,-6.31866),(53.29085,-6.31478),(53.29087,-6.31645)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'test 3 @ 212';
+						stores[storesc-1][1] = '(25.774, -80.19),(18.466, -66.118),(32.321, -64.757),(25.774, -80.19)';
+						stores[storesc-1][2] = '';
+												stores[storesc++] = new Array();
+						stores[storesc-1][0] = 'Tyrrelstown';
+						stores[storesc-1][1] = '(53.38608851159129, -6.402604579925537),(53.3878161768535, -6.401842832565308),(53.39008123175115, -6.400759220123291),(53.392000675453794, -6.399804353713989),(53.393209880545065, -6.398860216140747),(53.393459394780216, -6.398516893386841),(53.39423351938006, -6.397583484649658),(53.395193158428505, -6.396274566650391),(53.39606321246298, -6.394772529602051),(53.39735546577288, -6.392122507095337),(53.39764973579375, -6.391714811325073),(53.391840725117824, -6.380932331085205),(53.39237815586357, -6.379655599594116),(53.39247412492552, -6.379119157791138),(53.39270444979136, -6.378647089004517),(53.39312031097566, -6.378411054611206),(53.3942974959898, -6.376404762268066),(53.39566017493781, -6.3745808601379395),(53.39681170059762, -6.373046636581421),(53.39800157771295, -6.371287107467651),(53.39902510130107, -6.369377374649048),(53.39995264828849, -6.367478370666504),(53.40125757671443, -6.364012956619263),(53.40213390324432, -6.362006664276123),(53.40393767184534, -6.359066963195801),(53.40414874615182, -6.358766555786133),(53.40528085410628, -6.361684799194336),(53.40581811513704, -6.363058090209961),(53.40663038976417, -6.365128755569458),(53.40704611487238, -6.366255283355713),(53.40760893623794, -6.365697383880615),(53.409028747959454, -6.364635229110718),(53.41038455996327, -6.365182399749756),(53.41189380928824, -6.366137266159058),(53.41416397753517, -6.362886428833008),(53.41491214718426, -6.359109878540039),(53.41483541243135, -6.3579511642456055),(53.416135621550936, -6.357221603393555),(53.41755514866679, -6.356878280639648),(53.41893626470421, -6.357007026672363),(53.420649809284406, -6.358809471130371),(53.42113572726922, -6.358938217163086),(53.42166000097211, -6.359710693359375),(53.42260623470678, -6.361985206604004),(53.42365473938381, -6.3619208335876465),(53.42422160302951, -6.363015174865723),(53.42682993111844, -6.369924545288086),(53.428287456524174, -6.373271942138672),(53.43375912343876, -6.377906799316406),(53.43567659702272, -6.379494667053223),(53.435446504760634, -6.380953788757324),(53.43951128464919, -6.396274566650391),(53.43797745112461, -6.396918296813965),(53.43769624230593, -6.402626037597656),(53.43595781920677, -6.403999328613281),(53.433912524509246, -6.40477180480957),(53.429463668658315, -6.405587196350098),(53.42665093332486, -6.410307884216309),(53.424579618320976, -6.412367820739746),(53.42215016965981, -6.410565376281738),(53.42347999033493, -6.420693397521973),(53.42422160302951, -6.421723365783691),(53.42488648617118, -6.424212455749512),(53.42598607777852, -6.424469947814941),(53.42621622125972, -6.428933143615723),(53.42373572031164, -6.431293487548828),(53.42388915755928, -6.433353424072266),(53.4214340951448, -6.439447402954102),(53.41882543599527, -6.438503265380859),(53.417393162917556, -6.4400482177734375),(53.41483541243135, -6.441464424133301),(53.412226348452265, -6.446571350097656),(53.4103802964387, -6.447172164916992),(53.409472162897565, -6.447944641113281),(53.40783491541615, -6.446850299835205),(53.40705464249186, -6.445627212524414),(53.40438113985159, -6.445755958557129),(53.40179702069594, -6.444575786590576),(53.400453728446706, -6.448996067047119),(53.399903606047936, -6.4524078369140625),(53.39582224336363, -6.450519561767578),(53.39474746206231, -6.449875831604004),(53.39367265361834, -6.449060440063477),(53.39223953347063, -6.442172527313232),(53.39148456684459, -6.439104080200195),(53.39083195778414, -6.432323455810547),(53.39092153216918, -6.4316582679748535),(53.39052484417582, -6.4290618896484375),(53.38851575466224, -6.418483257293701),(53.387773519263625, -6.414449214935303),(53.38674972506444, -6.409127712249756),(53.38562352300777, -6.403098106384277),(53.38608851159129, -6.402604579925537)';
+						stores[storesc-1][2] = '';
+									}
+			
+			function findastoreform() {
+				var NAME = document.getElementById("find_a_store_form");
+				NAME.className="find-a-hut";
+				var NAME2 = document.getElementById("local_store");
+					NAME2.className = "hide";
+				
+			} 
+
+		</script>
+    <script>
+
+		
+
+		var mdl_msg_header = "";
+        function initialize() {
+			document.getElementById('modal-msg-header').innerHTML="Searching...";
+			document.getElementById('modal-msg-message').innerHTML="We are looking for your address. Please wait!";
+			$('#msgmodal').modal('show');
+
+	        var address = document.getElementById('autocomplete').value;
+			if(address.length>=10){
+				geocoder = new google.maps.Geocoder();
+				geocoder.geocode({
+				'address': address
+				}, function(results, status) {  
+					console.log(status);
+					if(status=="ZERO_RESULTS"){
+						//alert("we can't find it, please check the addrss or pick it from the list");
+						document.getElementById('modal-msg-header').innerHTML="We can't find it";
+						mytestfnct(document.getElementById('autocomplete').value, "ERROR", document.getElementById('ip_addr').value, document.getElementById('sess_id').value);
+						document.getElementById('modal-msg-message').innerHTML="Sorry but we can't find your address. Could you provide full address in correct format, please?";
+						$('#msgmodal').modal('show');
+					}else {
+						if(results.length>0){
+							var lat=console.log(results[0].geometry.location.lat());    
+							var lng=console.log(results[0].geometry.location.lng());
+							//found the store
+							fs(results[0].geometry.location.lat(), results[0].geometry.location.lng())
+						} else {
+							//we can't find you - please pick a store manually	
+						}
+					}
+				});
+			} else {
+				document.getElementById('modal-msg-message').innerHTML="Please provide a full address or pick for the list of Huts";
+			}
+            
+        }
+        //google.maps.event.addDomListener(window, 'load', initialize);
+
+		var myButton = document.getElementById('click1');
+		google.maps.event.addDomListener(myButton, 'click', initialize);
+		
+    </script>
+	<script>
+		$('#modalCovid19').modal('show');
+	</script>
+	
+
+		<!-- Trackers Body -->
+			<!--<script>
+	  fbq('track', 'Purchase');
+	</script>-->
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKJGNVF"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+		<!-- End Trackers Body -->
+</body>
